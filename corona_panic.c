@@ -1,6 +1,6 @@
 /* 
  * Author: Ryan Danielson
- * Purpose: Final Project
+ * 
  * Description: A simple terminal based game about social distancing. Simply make your
  * 		way through the forest without encountering other people. Take some
  * 		trees with you along the way to achieve a high score.
